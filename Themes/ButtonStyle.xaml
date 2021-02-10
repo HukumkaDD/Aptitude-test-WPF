@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Project.Controls">
+    <Style x:Key="ButtonStyleStyle" TargetType="{x:Type Button}">
+        <Setter Property="BorderBrush" Value="Bisque"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Background" Value="Aqua"/>
+        <Setter Property="FontStyle" Value="Italic"/>
+        <Setter Property="FontSize" Value="20"/>
+    </Style>
+    
+</ResourceDictionary>
